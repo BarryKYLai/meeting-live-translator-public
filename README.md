@@ -1,4 +1,4 @@
-# Meeting Live Translator
+# Live Subtitle Translator
 
 [中文](#中文說明) | [English](#english)
 
